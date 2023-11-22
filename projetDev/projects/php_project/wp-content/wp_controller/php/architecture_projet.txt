@@ -1,0 +1,15 @@
+**  ARCHITECTURE PROJET **
+
+wp_controller/
+    wp_controller.php
+    databases/
+        migration/
+        migration.php
+    php/
+        autoloader/
+            autoloader.php
+        classes/
+            wpabc_main.php
+        utils/
+            global.php
+            wpabc_functions.php

@@ -18,3 +18,8 @@ function wpabc_autoloader($class)
 //Enregistrer la fonction d'autoloader
 spl_autoload_register('wpabc_autoloader');
 ?>
+
+
+
+        
+        

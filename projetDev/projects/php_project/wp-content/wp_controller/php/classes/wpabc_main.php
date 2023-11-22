@@ -38,7 +38,7 @@ class Main
    */
   public function init_function()
   {
-    self::$_instances["MonPremierService"] = new \WPABC\();
+    self::$_instances["MonPremierService"] = new \WPABC\Class();
   }
 
 }

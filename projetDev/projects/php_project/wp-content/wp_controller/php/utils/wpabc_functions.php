@@ -68,9 +68,5 @@ function wpabc_gestion_form_version_db()
 
 add_action('admin_init', 'wpabc_gestion_form_version_db');
 
-// TODO: Déplacer la fonction "wpabc_db_version" et "wpabc_migrate_db" dans un service ou un fichier spécifique
-
-
-
 
 ?>

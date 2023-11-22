@@ -1,0 +1,8 @@
+<?php
+/*
+*
+*
+*
+*/
+    $query = "CREATE TABLE "
+?>
